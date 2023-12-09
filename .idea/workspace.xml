@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="214810c9-e9d2-4e01-8056-40b67501730b" name="Changes" comment="Advent of Code 2013: Solution for day 1 puzzle.">
-      <change afterPath="$PROJECT_DIR$/public/day2_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/AoC_Day2.java" afterDir="false" />
+    <list default="true" id="214810c9-e9d2-4e01-8056-40b67501730b" name="Changes" comment="Advent of Code 2023: Solution for day 2 puzzle.">
+      <change afterPath="$PROJECT_DIR$/public/day3_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/AoC_Day3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1701531465578</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Advent of Code 2023: Solution for day 2 puzzle.">
+      <option name="closed" value="true" />
+      <created>1702131332806</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1702131332806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Advent of Code 2013: Solution for day 1 puzzle." />
-    <option name="LAST_COMMIT_MESSAGE" value="Advent of Code 2013: Solution for day 1 puzzle." />
+    <MESSAGE value="Advent of Code 2023: Solution for day 2 puzzle." />
+    <option name="LAST_COMMIT_MESSAGE" value="Advent of Code 2023: Solution for day 2 puzzle." />
   </component>
 </project>
